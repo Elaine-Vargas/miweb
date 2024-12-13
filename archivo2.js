@@ -5,3 +5,6 @@ console.log(suma);
 
 let resta = a-b;
 console.log(resta);
+
+mult=a*b;
+console.log(mult);
